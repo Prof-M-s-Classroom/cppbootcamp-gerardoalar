@@ -1,0 +1,3 @@
+/Users/nesting/CLionProjects/cppbootcamp-gerardoalar/cmake-build-default/CMakeFiles/CppBootcamp.dir
+/Users/nesting/CLionProjects/cppbootcamp-gerardoalar/cmake-build-default/CMakeFiles/edit_cache.dir
+/Users/nesting/CLionProjects/cppbootcamp-gerardoalar/cmake-build-default/CMakeFiles/rebuild_cache.dir
