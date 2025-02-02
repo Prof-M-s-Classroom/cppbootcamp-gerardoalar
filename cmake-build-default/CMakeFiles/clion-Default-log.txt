@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -G "Unix Makefiles" -S /Users/nesting/CLionProjects/cppbootcamp-gerardoalar -B /Users/nesting/CLionProjects/cppbootcamp-gerardoalar/cmake-build-default
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/nesting/CLionProjects/cppbootcamp-gerardoalar/cmake-build-default
